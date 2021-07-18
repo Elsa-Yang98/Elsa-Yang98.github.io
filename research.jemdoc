@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research
+
+== Uncertainty Quantification
+- [https://arxiv.org/abs/2104.13871 Finite-sample Efficient Conformal Prediction] ([conformal_slides slides]) ([dfuq_poster.pdf poster]), Yachong Yang, Arun Kumar Kuchibhotla, 2021, ICML.
+-- We consider the problem of obtaining the smallest conformal prediction region given a family of machine learning algorithms and provide two general-purpose selection algorithms and consider coverage as well as width properties of the final prediction region.
+
+== High dimensional statistics
+- [https://arxiv.org/abs/2007.00566 The Price of Competition: Effect Size Heterogeneity Matters in High Dimensions], Hua Wang, Yachong Yang and Weijie Su, 2020, preprint.
+-- We introduce a new notion called effect size heterogeneity and prove that the false and true positive rates achieve the optimal trade-off uniformly along the Lasso path when this measure is maximal. Moreover, we demonstrate that the first false selection occurs much earlier when effect size heterogeneity is minimal than when it is maximal.
+
+- [https://papers.nips.cc/paper/2020/hash/e7db14e12fb49c1d78a573e6e5f542c2-Abstract.html The Complete Lasso Tradeoff Diagram],  Hua Wang,  Yachong Yang, Zhiqi Bu and Weijie Su, 2020, NIPS.
+-- We offer the first complete tradeoff diagram that distinguishes all pairs of FDR and power that can be asymptotically realized by the Lasso with some choice of its penalty parameter.
+- [https://www.tandfonline.com/doi/abs/10.1080/03610926.2021.1936044 Post Selection Inference], Qin Yu, Yang Li, Yumeng Wang, Yachong Yang, Zemin Zheng, 2018, Communications in Statistics - Theory and Methods.
+-- We propose the constrained projection estimator (CPE) for deriving confidence intervals in a scalable and efficient way under high dimensions when the unknown parameters adopt an approximately sparse structure.
+
+
+
+
