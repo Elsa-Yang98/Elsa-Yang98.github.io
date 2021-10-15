@@ -2,7 +2,7 @@
 = Research
 
 == Uncertainty Quantification
-- [https://arxiv.org/abs/2104.13871 Finite-sample Efficient Conformal Prediction] ([conformal_slides slides]) ([dfuq_poster.pdf poster]), Yachong Yang, Arun Kumar Kuchibhotla, 2021, ICML.
+- [https://arxiv.org/abs/2104.13871 Finite-sample Efficient Conformal Prediction] ([conformal_slides.pdf slides]) ([dfuq_poster.pdf poster]), Yachong Yang, Arun Kumar Kuchibhotla, 2021, ICML.
 -- We consider the problem of obtaining the smallest conformal prediction region given a family of machine learning algorithms and provide two general-purpose selection algorithms and consider coverage as well as width properties of the final prediction region.
 
 == High dimensional statistics
