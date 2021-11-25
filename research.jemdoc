@@ -2,8 +2,10 @@
 = Research
 
 == Uncertainty Quantification
+- Invited discusssant at [https://www.selectiveinferenceseminar.com International Selection Inference Seminar] ([https://drive.google.com/file/d/1lh7UkuwPEQT5uIWsJHhaBgT66hITfCyc/view Recording])([J+aB_discussion_slides.pdf slides]), comparing [http://arxiv.org/abs/2002.09025 the ensembling method of Jackknife+ after bootstrap] with EFCP (Efficiency first conformal prediction).
 - [https://arxiv.org/abs/2104.13871 Finite-sample Efficient Conformal Prediction] ([conformal_slides.pdf slides]) ([dfuq_poster.pdf poster]), Yachong Yang, Arun Kumar Kuchibhotla, 2021, ICML.
 -- We consider the problem of obtaining the smallest conformal prediction region given a family of machine learning algorithms and provide two general-purpose selection algorithms and consider coverage as well as width properties of the final prediction region.
+-- Accepted for presentation at [http://www.cmstatistics.org/index.php CMStatistics].
 
 == High dimensional statistics
 - [https://arxiv.org/abs/2007.00566 The Price of Competition: Effect Size Heterogeneity Matters in High Dimensions], Hua Wang, Yachong Yang and Weijie Su, 2020, preprint.
