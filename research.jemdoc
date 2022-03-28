@@ -2,6 +2,8 @@
 = Research
 
 == Uncertainty Quantification
+- Invited presenter at [https://www.selectiveinferenceseminar.com International Selection Inference Seminar] ([https://drive.google.com/file/d/1lh7UkuwPEQT5uIWsJHhaBgT66hITfCyc/view Recording])([ISSI_Slides.pdf slides]), presenting my joint work on [https://arxiv.org/abs/2203.01761 Doubly Robust Calibration of Prediction Sets under Covariate Shift] with Arun Kuchibhotla and Eric Tchetgen Tchetgen.
+- [https://arxiv.org/abs/2104.13871 Finite-sample Efficient Conformal Prediction] 
 - Invited discusssant at [https://www.selectiveinferenceseminar.com International Selection Inference Seminar] ([https://drive.google.com/file/d/1lh7UkuwPEQT5uIWsJHhaBgT66hITfCyc/view Recording])([J+aB_discussion_slides.pdf slides]), comparing [http://arxiv.org/abs/2002.09025 the ensembling method of Jackknife+ after bootstrap] with EFCP (Efficiency first conformal prediction).
 - [https://arxiv.org/abs/2104.13871 Finite-sample Efficient Conformal Prediction] ([conformal_slides.pdf slides]) ([dfuq_poster.pdf poster]), Yachong Yang, Arun Kumar Kuchibhotla, 2021, ICML.
 -- We consider the problem of obtaining the smallest conformal prediction region given a family of machine learning algorithms and provide two general-purpose selection algorithms and consider coverage as well as width properties of the final prediction region.
